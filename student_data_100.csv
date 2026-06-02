@@ -1,0 +1,101 @@
+Student_ID	Name	Course	Subject	Marks	Attendance
+1	Student_1	BCA	Python	92	77
+2	Student_2	BTech	SQL	53	66
+3	Student_3	BBA	Python	82	87
+4	Student_4	BCA	Python	50	73
+5	Student_5	BTech	Statistics	83	61
+6	Student_6	BBA	SQL	90	94
+7	Student_7	BSc CS	SQL	73	97
+8	Student_8	MCA	Python	93	70
+9	Student_9	BSc CS	DBMS	62	69
+10	Student_10	BTech	DBMS	51	65
+11	Student_11	BSc CS	Python	67	82
+12	Student_12	BBA	DBMS	96	62
+13	Student_13	BSc CS	Statistics	52	84
+14	Student_14	BCA	Statistics	63	100
+15	Student_15	BBA	DBMS	81	72
+16	Student_16	BCA	Python	87	74
+17	Student_17	MCA	Python	99	74
+18	Student_18	BCA	Data Structures	62	89
+19	Student_19	MCA	SQL	68	82
+20	Student_20	BTech	DBMS	89	64
+21	Student_21	BBA	SQL	79	75
+22	Student_22	BTech	Data Structures	69	77
+23	Student_23	BBA	SQL	88	80
+24	Student_24	BCA	SQL	97	62
+25	Student_25	MCA	Data Structures	62	64
+26	Student_26	BTech	Statistics	90	80
+27	Student_27	BTech	Data Structures	70	89
+28	Student_28	BTech	DBMS	53	75
+29	Student_29	BBA	Statistics	61	97
+30	Student_30	BSc CS	Statistics	70	83
+31	Student_31	BTech	SQL	77	91
+32	Student_32	BCA	Python	52	69
+33	Student_33	BTech	Data Structures	83	64
+34	Student_34	BSc CS	Data Structures	83	89
+35	Student_35	BBA	DBMS	80	60
+36	Student_36	BCA	Statistics	93	77
+37	Student_37	MCA	Python	63	87
+38	Student_38	BTech	Data Structures	45	76
+39	Student_39	BBA	SQL	77	66
+40	Student_40	MCA	Statistics	83	72
+41	Student_41	BTech	DBMS	93	70
+42	Student_42	BBA	Statistics	45	98
+43	Student_43	MCA	Data Structures	46	67
+44	Student_44	MCA	DBMS	60	63
+45	Student_45	BTech	Statistics	50	65
+46	Student_46	BSc CS	Python	93	94
+47	Student_47	BTech	SQL	87	90
+48	Student_48	BBA	SQL	61	93
+49	Student_49	BBA	Data Structures	58	94
+50	Student_50	BTech	DBMS	70	83
+51	Student_51	BSc CS	Statistics	73	67
+52	Student_52	BTech	SQL	49	81
+53	Student_53	BCA	Statistics	80	74
+54	Student_54	BBA	SQL	45	64
+55	Student_55	BCA	SQL	49	62
+56	Student_56	MCA	Python	77	75
+57	Student_57	MCA	Data Structures	58	94
+58	Student_58	BTech	Statistics	81	90
+59	Student_59	BTech	Data Structures	96	86
+60	Student_60	BTech	Python	51	87
+61	Student_61	MCA	Data Structures	71	89
+62	Student_62	BCA	Python	48	85
+63	Student_63	MCA	Python	60	72
+64	Student_64	BTech	Statistics	73	68
+65	Student_65	BSc CS	SQL	62	89
+66	Student_66	BTech	Python	73	95
+67	Student_67	BCA	Python	86	94
+68	Student_68	BCA	Python	93	75
+69	Student_69	BTech	Data Structures	76	90
+70	Student_70	BTech	Data Structures	48	70
+71	Student_71	BSc CS	Python	69	76
+72	Student_72	BSc CS	DBMS	72	95
+73	Student_73	BSc CS	SQL	57	78
+74	Student_74	BTech	Python	82	94
+75	Student_75	BCA	DBMS	48	63
+76	Student_76	BBA	Data Structures	77	93
+77	Student_77	BTech	Python	77	65
+78	Student_78	BTech	Python	83	64
+79	Student_79	BTech	Data Structures	52	96
+80	Student_80	BTech	Statistics	83	62
+81	Student_81	BBA	Python	71	97
+82	Student_82	BBA	Statistics	65	76
+83	Student_83	BTech	DBMS	60	76
+84	Student_84	BSc CS	SQL	87	79
+85	Student_85	BSc CS	DBMS	93	64
+86	Student_86	BCA	Data Structures	84	96
+87	Student_87	BCA	Python	79	73
+88	Student_88	BBA	DBMS	53	82
+89	Student_89	BCA	SQL	68	78
+90	Student_90	BTech	Data Structures	98	94
+91	Student_91	MCA	Statistics	96	93
+92	Student_92	BCA	Statistics	64	66
+93	Student_93	BTech	DBMS	52	66
+94	Student_94	BBA	SQL	62	78
+95	Student_95	BBA	SQL	90	81
+96	Student_96	BTech	DBMS	77	91
+97	Student_97	MCA	Python	50	100
+98	Student_98	BSc CS	DBMS	47	60
+99	Student_99	MCA	SQL	85	76
+100	Student_100	BTech	Data Structures	80	87
